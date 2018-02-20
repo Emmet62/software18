@@ -4,7 +4,7 @@ Created on 25 Jan 2018
 @author: Emmet Tracey
 '''
 import platform
-# comment
+# systeminfo program
 def main():
     print(platform.platform())
     return
